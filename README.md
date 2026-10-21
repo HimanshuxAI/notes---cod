@@ -45,9 +45,21 @@ notes---cod/
 
 **Topics:** Containers, Containers vs VMs, Kubernetes, Autoscaling (HPA/VPA/Cluster), Microservices, Serverless (BaaS/FaaS)
 
-### Assignment 2 — Term Assessment-II
+### Assignment 2 — Term Assessment-II (Cloud Foundation 23CSE3014)
 - [Exam Answers](./Cloud_Foundation_Deployment/Assignment_2/Assignment_2_Exam_Answers.md) | [PDF](./Cloud_Foundation_Deployment/Assignment_2/Assignment_2_Exam_Answers.pdf)
 - [Exam Pattern & Prediction](./Cloud_Foundation_Deployment/Assignment_2/Exam_Pattern_Analysis_Prediction.md) | [PDF](./Cloud_Foundation_Deployment/Assignment_2/Exam_Pattern_Analysis_Prediction.pdf)
+
+### Exam Answers — Data Engineering Term Assessment-II (23CSE3017)
+- [Model Answers Q1–Q4](./Data_Engineering/Exam_Answers_Term_Assessment_II.md) | [PDF](./Data_Engineering/Exam_Answers_Term_Assessment_II.pdf)
+
+**Pattern:** Attempt Q1 OR Q2 AND Q3 OR Q4 (each part = 5 marks, total 20 marks)
+
+**Topics Covered:**
+- Q1: Spark ETL pipeline (extract/transform/load) + AWS/Azure benefits for data engineering
+- Q2: Azure Blob Storage / AWS S3 security + Hadoop batch & Spark Streaming hybrid dashboard
+- Q3: Amazon Redshift data warehouse + Amazon S3 scalability/security/durability
+- Q4: AWS Glue serverless ETL/ELT + Azure ADF vs AWS Glue comparison
+- Quick 5-mark answer writing template
 
 ---
 
