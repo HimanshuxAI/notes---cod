@@ -57,15 +57,17 @@ notes---cod/
 **Professor:** Dr. Aditya Pai H  
 **Academic Year:** 2025-2026 SEM-I (NEP)
 
-### Unit III — Big Data Technologies and Distributed Computing
-- [Study Guide](./Data_Engineering/Unit_III/Unit_III_DE_Notes.md) | [PDF](./Data_Engineering/Unit_III/Unit_III_DE_Notes.pdf)
+### Unit III — Big Data Technologies and Distributed Computing (Detailed)
+- [Detailed Study Guide](./Data_Engineering/Unit_III/Unit_III_DE_Notes_Detailed.md) | [PDF](./Data_Engineering/Unit_III/Unit_III_DE_Notes_Detailed.pdf)
+- [Concise Study Guide](./Data_Engineering/Unit_III/Unit_III_DE_Notes.md) | [PDF](./Data_Engineering/Unit_III/Unit_III_DE_Notes.pdf)
 
-**Topics:** Big Data Technologies (3Vs), Big Data Processing Pipeline, Distributed Computing Frameworks, Apache Hadoop Ecosystem (HDFS/YARN/MapReduce/PIG/HIVE/HBase/Mahout/Solr/Lucene/Zookeeper/Oozie), Apache Spark Basics (RDDs/DataFrames/Datasets, Transformations/Actions), Cloud Platforms (IaaS/PaaS/SaaS), Azure vs AWS comparison
+**Topics:** Big Data 3Vs & extended characteristics, Big Data Processing Pipeline (5 stages), Distributed Computing Frameworks need & use cases, Apache Hadoop Ecosystem deep dive (HDFS Name Node/Data Node, MapReduce Map/Reduce/shuffle/word count, YARN RM/NM/AM, PIG/HIVE/HBase/Mahout/Solr/Lucene/Zookeeper/Oozie), Apache Spark architecture (RDDs/DataFrames/Datasets, Transformations/Actions lazy vs eager), Spark vs Hadoop MapReduce, Cloud Platforms (IaaS/PaaS/SaaS, deployment models), Azure vs AWS detailed comparison, 10 exam questions with model answers, quick revision cheat sheet
 
-### Unit IV — Data Services on Azure and AWS
-- [Study Guide](./Data_Engineering/Unit_IV/Unit_IV_DE_Notes.md) | [PDF](./Data_Engineering/Unit_IV/Unit_IV_DE_Notes.pdf)
+### Unit IV — Data Services on Azure and AWS (Detailed)
+- [Detailed Study Guide](./Data_Engineering/Unit_IV/Unit_IV_DE_Notes_Detailed.md) | [PDF](./Data_Engineering/Unit_IV/Unit_IV_DE_Notes_Detailed.pdf)
+- [Concise Study Guide](./Data_Engineering/Unit_IV/Unit_IV_DE_Notes.md) | [PDF](./Data_Engineering/Unit_IV/Unit_IV_DE_Notes.pdf)
 
-**Topics:** Azure Data Services (storage, integration, AI/ML, specialized), Azure Data Factory (ETL/ELT, pipelines, triggers), Azure Synapse Analytics, Azure Blob Storage (block/page/append blobs), Azure Databricks, AWS Data Services (databases, analytics), Amazon S3 (durability, data lake), Amazon Redshift (MPP, serverless, AQUA), AWS Glue (serverless ETL, Data Catalog, crawlers)
+**Topics:** Azure Data Services (5 categories with supermarket analogy), Azure Data Factory deep dive (ETL vs ELT, Linked Services/Datasets/Pipelines/Activities/Triggers/Integration Runtime, pipeline creation steps, trigger types, monitoring), Azure Synapse Analytics (unified platform, SQL/Spark pools, benefits, use cases), Azure Blob Storage (block/page/append blobs, Hot/Cool/Archive tiers, containers, use cases), Azure Databricks (control plane vs data plane, capabilities, Azure ecosystem integration), AWS Data Services (databases & analytics categories), Amazon S3 (benefits, 11 nines durability, storage classes, data lake), Amazon Redshift (MPP, serverless, AQUA, security, vs traditional DW), AWS Glue (serverless ETL, Data Catalog, crawlers, Glue Studio, DataBrew, strengths/limitations), Azure vs AWS data services comparison matrix, 10 exam questions with model answers, quick revision cheat sheet
 
 ---
 
