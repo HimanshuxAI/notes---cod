@@ -12,6 +12,9 @@ notes---cod/
 │   ├── Unit_III/                 # Cloud Security, Monitoring & Cost Management
 │   ├── Unit_IV/                  # Containerization and Orchestration
 │   └── Assignment_2/             # Term Assessment-II Exam Answers & Pattern Analysis
+├── Data_Engineering/
+│   ├── Unit_III/                 # Big Data Technologies and Distributed Computing
+│   └── Unit_IV/                  # Data Services on Azure and AWS
 ├── FastAPI_Mastery/              # FastAPI Mastery Course Lessons
 │   └── fastapi-mastery/
 ├── Aptitude_Notes/
@@ -45,6 +48,24 @@ notes---cod/
 ### Assignment 2 — Term Assessment-II
 - [Exam Answers](./Cloud_Foundation_Deployment/Assignment_2/Assignment_2_Exam_Answers.md) | [PDF](./Cloud_Foundation_Deployment/Assignment_2/Assignment_2_Exam_Answers.pdf)
 - [Exam Pattern & Prediction](./Cloud_Foundation_Deployment/Assignment_2/Exam_Pattern_Analysis_Prediction.md) | [PDF](./Cloud_Foundation_Deployment/Assignment_2/Exam_Pattern_Analysis_Prediction.pdf)
+
+---
+
+## 📊 Data Engineering (23CSE3017)
+
+**Institution:** MIT Art, Design and Technology University, MIT School of Computing, Pune  
+**Professor:** Dr. Aditya Pai H  
+**Academic Year:** 2025-2026 SEM-I (NEP)
+
+### Unit III — Big Data Technologies and Distributed Computing
+- [Study Guide](./Data_Engineering/Unit_III/Unit_III_DE_Notes.md) | [PDF](./Data_Engineering/Unit_III/Unit_III_DE_Notes.pdf)
+
+**Topics:** Big Data Technologies (3Vs), Big Data Processing Pipeline, Distributed Computing Frameworks, Apache Hadoop Ecosystem (HDFS/YARN/MapReduce/PIG/HIVE/HBase/Mahout/Solr/Lucene/Zookeeper/Oozie), Apache Spark Basics (RDDs/DataFrames/Datasets, Transformations/Actions), Cloud Platforms (IaaS/PaaS/SaaS), Azure vs AWS comparison
+
+### Unit IV — Data Services on Azure and AWS
+- [Study Guide](./Data_Engineering/Unit_IV/Unit_IV_DE_Notes.md) | [PDF](./Data_Engineering/Unit_IV/Unit_IV_DE_Notes.pdf)
+
+**Topics:** Azure Data Services (storage, integration, AI/ML, specialized), Azure Data Factory (ETL/ELT, pipelines, triggers), Azure Synapse Analytics, Azure Blob Storage (block/page/append blobs), Azure Databricks, AWS Data Services (databases, analytics), Amazon S3 (durability, data lake), Amazon Redshift (MPP, serverless, AQUA), AWS Glue (serverless ETL, Data Catalog, crawlers)
 
 ---
 
