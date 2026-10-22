@@ -53,7 +53,7 @@ notes---cod/
 - [Exam Pattern & Prediction](./Cloud_Foundation_Deployment/Assignment_2/Exam_Pattern_Analysis_Prediction.md) | [PDF](./Cloud_Foundation_Deployment/Assignment_2/Exam_Pattern_Analysis_Prediction.pdf)
 
 ### Exam Answers — Data Engineering Term Assessment-II (23CSE3017)
-- [Model Answers Q1–Q4](./Data_Engineering/Exam_Answers_Term_Assessment_II.md) | [PDF](./Data_Engineering/Exam_Answers_Term_Assessment_II.pdf)
+- [Model Answers Q1–Q4](./Data_Engineering/Assignment_2/Exam_Answers_Term_Assessment_II.md) | [PDF](./Data_Engineering/Assignment_2/Exam_Answers_Term_Assessment_II.pdf)
 
 **Pattern:** Attempt Q1 OR Q2 AND Q3 OR Q4 (each part = 5 marks, total 20 marks)
 
@@ -85,7 +85,7 @@ notes---cod/
 **Topics:** Azure Data Services (5 categories with supermarket analogy), Azure Data Factory deep dive (ETL vs ELT, Linked Services/Datasets/Pipelines/Activities/Triggers/Integration Runtime, pipeline creation steps, trigger types, monitoring), Azure Synapse Analytics (unified platform, SQL/Spark pools, benefits, use cases), Azure Blob Storage (block/page/append blobs, Hot/Cool/Archive tiers, containers, use cases), Azure Databricks (control plane vs data plane, capabilities, Azure ecosystem integration), AWS Data Services (databases & analytics categories), Amazon S3 (benefits, 11 nines durability, storage classes, data lake), Amazon Redshift (MPP, serverless, AQUA, security, vs traditional DW), AWS Glue (serverless ETL, Data Catalog, crawlers, Glue Studio, DataBrew, strengths/limitations), Azure vs AWS data services comparison matrix, 10 exam questions with model answers, quick revision cheat sheet
 
 ### Assignment-2 — Theory Assignment-2, Data Engineering (23CSE3017)
-- [Model Answers Q1–Q5](./Data_Engineering/Assignment_2_Term_Assessment.md) | [PDF](./Data_Engineering/Assignment_2_Term_Assessment.pdf)
+- [Model Answers Q1–Q5](./Data_Engineering/Assignment_2/Assignment_2_Term_Assessment.md) | [PDF](./Data_Engineering/Assignment_2/Assignment_2_Term_Assessment.pdf)
 
 **Pattern:** 5 questions × 2 parts each, mapped to L4/CO3 and L4/CO4
 
@@ -106,12 +106,12 @@ notes---cod/
 **Academic Year:** 2025-2026 SEM-I
 
 ### Unit III — IoT Communication Protocols (Detailed)
-- [Detailed Study Guide](./IoT_Unit_III_Notes.md) | [PDF](./IoT_Unit_III_Notes.pdf)
+- [Detailed Study Guide](./IoT_Notes/Unit_III/IoT_Unit_III_Notes.md) | [PDF](./IoT_Notes/Unit_III/IoT_Unit_III_Notes.pdf)
 
 **Topics:** IoT protocols (3Vs & characteristics), 6 protocol categories (Infrastructure, Discovery, Data, Identification, Device Management, Semantic), IPv6 (128-bit, auto-config, IPSec), RPL (DODAG, objective function), 6LoWPAN (2.4 GHz, 200 kbps, mesh), CCN (content-centric, uniquely named data), Discovery (Physical Web, mDNS, UPnP), Data (MQTT pub/sub, QoS 0/1/2, CoAP, AMQP, XMPP, WebSocket, HTTP), Identification (EPC, URI), Device Management (TR-069, OMA-DM), Semantic (JSON-LD, WoT), 10 exam questions with model answers, quick revision cheat sheet
 
 ### Unit IV — End Nodes & Gateways for IoT (Detailed)
-- [Detailed Study Guide](./IoT_Unit_IV_Notes.md) | [PDF](./IoT_Unit_IV_Notes.pdf)
+- [Detailed Study Guide](./IoT_Notes/Unit_IV/IoT_Unit_IV_Notes.md) | [PDF](./IoT_Notes/Unit_IV/IoT_Unit_IV_Notes.pdf)
 
 **Topics:** ESP32 (dual-core Xtensa LX6 @ 240MHz, Wi-Fi + Bluetooth, 520KB RAM), ESP8266 (single-core LX106 @ 160MHz, Wi-Fi only, 160KB RAM), comparison table, pinouts (power, ADC, DAC, touchpads, SPI, I2C, UART, GPIO, PWM), modes (STA, AP, STA+AP with code), Raspberry Pi (SBC, 40-pin GPIO header, 28 GPIO, BCM vs BOARD numbering), Python GPIO programming (RPi.GPIO), WiringPi library (C), SPI (master-slave, full-duplex, 4 modes), I2C (SDA/SCL, 7-bit/10-bit addressing, pull-up resistors), UART (serial communication), sensors (ultrasonic, PWM servo), 10 exam questions with model answers, quick revision cheat sheet
 
