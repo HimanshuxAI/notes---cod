@@ -1,7 +1,51 @@
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
 *.pyc
 __pycache__/
-*.log
-.env
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
 .venv/
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
+# macOS specific
+.Spotlight-V100
+.Trashes
+
+# FastAPI
 FastAPI_Mastery/fastapi-mastery/.venv/
