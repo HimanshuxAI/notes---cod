@@ -81,6 +81,19 @@ notes---cod/
 
 **Topics:** Azure Data Services (5 categories with supermarket analogy), Azure Data Factory deep dive (ETL vs ELT, Linked Services/Datasets/Pipelines/Activities/Triggers/Integration Runtime, pipeline creation steps, trigger types, monitoring), Azure Synapse Analytics (unified platform, SQL/Spark pools, benefits, use cases), Azure Blob Storage (block/page/append blobs, Hot/Cool/Archive tiers, containers, use cases), Azure Databricks (control plane vs data plane, capabilities, Azure ecosystem integration), AWS Data Services (databases & analytics categories), Amazon S3 (benefits, 11 nines durability, storage classes, data lake), Amazon Redshift (MPP, serverless, AQUA, security, vs traditional DW), AWS Glue (serverless ETL, Data Catalog, crawlers, Glue Studio, DataBrew, strengths/limitations), Azure vs AWS data services comparison matrix, 10 exam questions with model answers, quick revision cheat sheet
 
+### Assignment-2 — Theory Assignment-2, Data Engineering (23CSE3017)
+- [Model Answers Q1–Q5](./Data_Engineering/Assignment_2_Term_Assessment.md) | [PDF](./Data_Engineering/Assignment_2_Term_Assessment.pdf)
+
+**Pattern:** 5 questions × 2 parts each, mapped to L4/CO3 and L4/CO4
+
+**Topics Covered:**
+- Q1: Spark vs Hadoop MapReduce (video-streaming low-latency); Spark RDDs vs DataFrames (telecom CDR batch)
+- Q2: Azure/AWS roles in scalable distributed data engineering (insurance); Spark vs Hadoop for real-time/iterative (stock-market)
+- Q3: Spark transformations & actions for social-media pipeline; Azure Data Factory vs AWS Glue comparison
+- Q4: Azure Blob Storage for media metadata archiving; Amazon Redshift vs Azure Synapse for bank regulatory reports
+- Q5: ADF/Glue pipeline tuning for slow Power BI dashboard; S3 → Glue → Redshift ETL flow for social-media analytics
+- Quick 5-mark answer writing template
+
 ---
 
 ## 🚀 FastAPI Mastery
