@@ -15,6 +15,9 @@ notes---cod/
 ├── Data_Engineering/
 │   ├── Unit_III/                 # Big Data Technologies and Distributed Computing
 │   └── Unit_IV/                  # Data Services on Azure and AWS
+├── IoT_Notes/
+│   ├── Unit_III/                 # IoT Communication Protocols
+│   └── Unit_IV/                  # End Nodes & Gateways for IoT
 ├── FastAPI_Mastery/              # FastAPI Mastery Course Lessons
 │   └── fastapi-mastery/
 ├── Aptitude_Notes/
@@ -93,6 +96,24 @@ notes---cod/
 - Q4: Azure Blob Storage for media metadata archiving; Amazon Redshift vs Azure Synapse for bank regulatory reports
 - Q5: ADF/Glue pipeline tuning for slow Power BI dashboard; S3 → Glue → Redshift ETL flow for social-media analytics
 - Quick 5-mark answer writing template
+
+---
+
+## 📶 IoT Notes (23CSE3013 — Internet of Things)
+
+**Institution:** MIT Art, Design and Technology University, MIT School of Computing, Pune  
+**Professor:** Prof. Ujjwala N. Salunkhe  
+**Academic Year:** 2025-2026 SEM-I
+
+### Unit III — IoT Communication Protocols (Detailed)
+- [Detailed Study Guide](./IoT_Unit_III_Notes.md) | [PDF](./IoT_Unit_III_Notes.pdf)
+
+**Topics:** IoT protocols (3Vs & characteristics), 6 protocol categories (Infrastructure, Discovery, Data, Identification, Device Management, Semantic), IPv6 (128-bit, auto-config, IPSec), RPL (DODAG, objective function), 6LoWPAN (2.4 GHz, 200 kbps, mesh), CCN (content-centric, uniquely named data), Discovery (Physical Web, mDNS, UPnP), Data (MQTT pub/sub, QoS 0/1/2, CoAP, AMQP, XMPP, WebSocket, HTTP), Identification (EPC, URI), Device Management (TR-069, OMA-DM), Semantic (JSON-LD, WoT), 10 exam questions with model answers, quick revision cheat sheet
+
+### Unit IV — End Nodes & Gateways for IoT (Detailed)
+- [Detailed Study Guide](./IoT_Unit_IV_Notes.md) | [PDF](./IoT_Unit_IV_Notes.pdf)
+
+**Topics:** ESP32 (dual-core Xtensa LX6 @ 240MHz, Wi-Fi + Bluetooth, 520KB RAM), ESP8266 (single-core LX106 @ 160MHz, Wi-Fi only, 160KB RAM), comparison table, pinouts (power, ADC, DAC, touchpads, SPI, I2C, UART, GPIO, PWM), modes (STA, AP, STA+AP with code), Raspberry Pi (SBC, 40-pin GPIO header, 28 GPIO, BCM vs BOARD numbering), Python GPIO programming (RPi.GPIO), WiringPi library (C), SPI (master-slave, full-duplex, 4 modes), I2C (SDA/SCL, 7-bit/10-bit addressing, pull-up resistors), UART (serial communication), sensors (ultrasonic, PWM servo), 10 exam questions with model answers, quick revision cheat sheet
 
 ---
 
