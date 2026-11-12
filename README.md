@@ -20,6 +20,7 @@ notes---cod/
 │   └── Unit_IV/                  # End Nodes & Gateways for IoT
 ├── FastAPI_Mastery/              # FastAPI Mastery Course Lessons
 │   └── fastapi-mastery/
+├── Python_Crash_Course/          # Complete book notes (Eric Matthes, 3rd Ed.)
 ├── Aptitude_Notes/
 │   ├── Reasoning/                # Blood Relations, Syllogism, Fact/Inference/Judgement
 │   ├── Quantitative/             # Number System, Time & Work, Pipe & Cistern, TSD, Trains/Boats/Streams
@@ -122,6 +123,16 @@ notes---cod/
 - [Course Repository](./FastAPI_Mastery/fastapi-mastery/)
 
 **Lessons:** Lifecycle & Architecture, Routing & Parameters, Pydantic v2, Dependency Injection, Async & Concurrency, Errors & Middleware, Databases, Auth & Security, Testing, Architecture, Production, Advanced
+
+---
+
+## 🐍 Python Crash Course — Complete Notes
+
+- [Complete Detailed Notes](./Python_Crash_Course/Python_Crash_Course_Complete_Notes.md)
+
+**Book:** *Python Crash Course, 3rd Edition* — Eric Matthes (No Starch Press)
+
+**Contents:** Part I — Basics (Ch. 1–11: setup, variables, lists, conditionals, dictionaries, loops, functions, classes, files, exceptions, testing) · Part II — Projects (Ch. 12–14 Alien Invasion, Ch. 15–17 Data Visualization, Ch. 18–20 Django web app) · Appendices A–E (installation, editors, getting help, Git, deployment) · master cheat sheets, top 40 mistakes, and a 30-day study plan.
 
 ---
 
