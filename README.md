@@ -8,6 +8,8 @@ This repository contains comprehensive study notes for multiple subjects, organi
 
 ```
 notes---cod/
+├── Database_Management_Systems/  # Detailed Unit III–V exam notes
+├── Source_Materials/             # Normalized original course presentations
 ├── Cloud_Foundation_Deployment/
 │   ├── Unit_III/                 # Cloud Security, Monitoring & Cost Management
 │   ├── Unit_IV/                  # Containerization and Orchestration
@@ -28,6 +30,23 @@ notes---cod/
 ├── Siri_Safari/                  # Siri → Safari Search Shortcut
 └── README.md
 ```
+
+---
+
+## 🗄️ Database Management Systems (23CSE2022)
+
+- [Subject index](./Database_Management_Systems/README.md)
+
+### Unit III — Database Design
+- [Detailed Study Guide](./Database_Management_Systems/Unit_III_Database_Design/Unit_III_Database_Design_Detailed_Notes.md)
+
+### Unit IV — Constraints, Views and PL/SQL
+- [Detailed Study Guide](./Database_Management_Systems/Unit_IV_Constraints_Views_PLSQL/Unit_IV_Constraints_Views_PLSQL_Detailed_Notes.md)
+
+### Unit V — Query Processing and Transactions
+- In preparation: sections 12–16 and final technical review remain.
+
+**Topics:** Functional dependencies and Armstrong axioms · anomalies and normalization · 1NF–5NF and BCNF · decomposition · integrity constraints · views and SQL · PL/SQL · query optimization · transactions and ACID · schedules and serializability · concurrency control · deadlocks · recovery
 
 ---
 
